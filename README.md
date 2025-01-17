@@ -166,12 +166,6 @@ To run the backup script automatically at 6:00 AM every day, add the following c
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Support
 
 For any issues or questions regarding the script, feel free to open an issue in the repository.
