@@ -4,7 +4,7 @@ SOURCE_DIR="/path/to/your/source/directory"  # Example: /home/ubuntu/data
 CURRENT_DATE=$(date +"%Y-%m-%d_%H-%M-%S") # Get current date and time
 ZIP_FILE="/tmp/data_backup_$CURRENT_DATE.zip"
 DB_BACKUP_FILE="/tmp/mysql_backup_$CURRENT_DATE.sql"
-DEST_DIR="your_remote_storage:backup-directory"  # Example: arvancloud:backup-petpars/backups
+DEST_DIR="your_remote_storage:backup-directory"  # Example: arvancloud:backup-bucket/backups
 # MySQL credentials (replace with placeholders)
 DB_USER="your_mysql_user"  # Example: "root"
 DB_PASSWORD="your_mysql_password"  # Example: "your_password"
